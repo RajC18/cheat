@@ -1,0 +1,24 @@
+docker login
+pass username and password
+
+
+docker info
+
+
+docker image -> gives all commands that are given with docker image
+
+docker image ls -> list all images that are pulled
+
+get image command from docker hub  
+
+
+docker rmi IMAGE ID -> delete image
+
+docker prune -> to delete all images 
+
+
+docker stats -a -> shows all containers
+
+docker stop IMAGE ID -> to stop running current image
+
+docker run -it imagename -> to start runnning docker
